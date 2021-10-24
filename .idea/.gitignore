@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../:\inforce-task\.idea/dataSources/
+/../../../../../../:\Users\Ростик\prodd\project_e_commerce\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
