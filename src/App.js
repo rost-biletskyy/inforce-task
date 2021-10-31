@@ -51,6 +51,8 @@ const App = () => {
 
   const handleDrawerToggle = () => setMobileOpen(!mobileOpen);
 
+  console.log(cart);
+
   return (
     <Router>
       <div style={{ display: 'flex' }}>
